@@ -1,0 +1,23 @@
+name: TechnoBladeMemorial
+main: com.i0dev.plugin.technobladememorial.TechnoBladeMemorial
+version: 1.0.0
+author: i01
+description: A primary plugin for the TechnoBlade memorial server
+website: www.i0dev.com
+softdepend:
+  - PlaceHolderAPI
+commands:
+  claimPig:
+    aliases:
+      - claim
+      - pig
+    description: Claim your donation pigs.
+  techno:
+    aliases:
+      - technoblade
+      - technobladememorial
+    description: The main techno command
+  message:
+    aliases:
+      - addmessage
+    description: Add a message to your pig
