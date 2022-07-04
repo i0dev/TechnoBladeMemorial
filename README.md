@@ -16,7 +16,7 @@
 
 #### 100% of profits would go directly to the Sarcoma Foundation of America, after we pay for server hosting expenses.
 
-#### How the memorial plugin works (for all the developers)
+# How the memorial plugin works (for all the developers)
 
 #### A Detailed step-by-step explanation of how the plugin works is as follows:
 
@@ -67,8 +67,9 @@ attached to them. On reboot this task will run as well. The task does as follows
 ### With all that being said, I hope this readme is legible to everyone. If you notice any typos, or clarification issues please create a GitHub issue, and I will fix it ASAP.
 
 ### Sarcoma Foundation Information
-https://www.curesarcoma.org/
-https://twitter.com/CureSarcoma
-https://www.instagram.com/curesarcoma/
-https://www.facebook.com/CureSarcoma/
-https://www.linkedin.com/company/sarcoma-foundation-of-america
+
+* https://www.curesarcoma.org/
+* https://twitter.com/CureSarcoma
+* https://www.instagram.com/curesarcoma/
+* https://www.facebook.com/CureSarcoma/
+* https://www.linkedin.com/company/sarcoma-foundation-of-america
